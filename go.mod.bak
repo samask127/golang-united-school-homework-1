@@ -1,5 +1,5 @@
-module solution
+module learn
 
-go 1.17
+go 1.18
 
 require github.com/kyokomi/emoji/v2 v2.2.8
